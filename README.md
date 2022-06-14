@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <a href='https://github.com/seraphjiang/github-stats'>
 
 ![](https://raw.githubusercontent.com/seraphjiang/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/seraphjiang/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/seraphjiang/github-stats/master/generated/languages.svg#gh-dark-mode-only)
