@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📊 Github Stats
+<a href='https://github.com/seraphjiang/github-stats-transparent'>
