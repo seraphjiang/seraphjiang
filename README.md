@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Linkedin Badge](https://img.shields.io/badge/-huanjiang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huanjiang/)](https://www.linkedin.com/in/huanjiang/)
+
+[![Gmail Badge](https://img.shields.io/badge/-seraphjiang@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seraphjiang@gmail.com)](mailto:seraphjiang@gmail.com)
+
 ### 📊 Github Stats
 <a href='https://github.com/seraphjiang/github-stats'>
 
